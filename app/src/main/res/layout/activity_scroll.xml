@@ -35,7 +35,7 @@
                 <ImageView
                     android:layout_width="700dp"
                     android:layout_height="700dp"
-                    android:src="@drawable/me" />
+                    android:src="@drawable/realestate_plot" />
 
             </LinearLayout>
         </ScrollView>
